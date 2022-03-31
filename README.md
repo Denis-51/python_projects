@@ -1,0 +1,1 @@
+this repository contains simple and beginner friendly projects!
